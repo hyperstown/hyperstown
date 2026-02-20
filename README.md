@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**hyperstown/hyperstown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting my profile! I hope you'll find whatever you're looking for. 
 
-Here are some ideas to get you started:
+I believe that the best way to learn is by creating things, which is why you can find here all kinds of projects 
+in many different programming languages. You can use those as a reference or base of your next project. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also solve a real life problems. If something doesn't work I just make it work, if there's no support I just
+make support for it. \
+Anything is possible if you can write anything! 
+
+I love open-source software so all of my personal projects are [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
+
+### Tech stack:
+- **OS:** Arch Linux
+- **Editors:** NeoVim, Zed, VSCode
+- **Programming Languages:** Python, JavaScript, TypeScript, Lua, C, C++
+- **Frameworks:** Django, Django Rest Framework, Vue.js, Nuxt, Svelte, Alpine
